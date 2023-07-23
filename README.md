@@ -1,3 +1,5 @@
+### LIVE LINK :- <a href='https://prashmeetup.ccbp.tech/'>MeetUp </a>
+
 The goal of this coding exam is to quickly get you off the ground with **React Context**.
 
 ### Refer to the image below:
@@ -51,6 +53,7 @@ The goal of this coding exam is to quickly get you off the ground with **React C
 The app must have the following functionalities
 
 - **Home Route**
+
   - Initially, when the **Register** button in the Home Route is clicked, then the page should be navigated to Register Route
   - When the **Register Now** button in the Register Route is clicked, then the input name and selected topic in the Register Route should be displayed in the Home Route
 
@@ -70,9 +73,7 @@ The app must have the following functionalities
   |     id      |  String   |
   | displayText |  String   |
 
-
 </details>
-
 
 ### Important Note
 
@@ -83,8 +84,8 @@ The app must have the following functionalities
 
 **The following instructions are required for the tests to pass**
 
- - Home Route should consist of `/` in the URL path
- - Register Route should consist of `/register` in the URL path
+- Home Route should consist of `/` in the URL path
+- Register Route should consist of `/register` in the URL path
 
 </details>
 
@@ -93,10 +94,10 @@ The app must have the following functionalities
 <details>
 <summary>Image URLs</summary>
 
- - [https://assets.ccbp.in/frontend/react-js/meetup/website-logo-img.png](https://assets.ccbp.in/frontend/react-js/meetup/website-logo-img.png) alt should be **website logo**
- - [https://assets.ccbp.in/frontend/react-js/meetup/website-register-img.png](https://assets.ccbp.in/frontend/react-js/meetup/website-register-img.png) alt should be **website register**
- - [https://assets.ccbp.in/frontend/react-js/meetup/meetup-img.png](https://assets.ccbp.in/frontend/react-js/meetup/meetup-img.png) alt should be **meetup**
- - [https://assets.ccbp.in/frontend/react-js/meetup/not-found-img.png](https://assets.ccbp.in/frontend/react-js/meetup/not-found-img.png) alt should be **not found**
+- [https://assets.ccbp.in/frontend/react-js/meetup/website-logo-img.png](https://assets.ccbp.in/frontend/react-js/meetup/website-logo-img.png) alt should be **website logo**
+- [https://assets.ccbp.in/frontend/react-js/meetup/website-register-img.png](https://assets.ccbp.in/frontend/react-js/meetup/website-register-img.png) alt should be **website register**
+- [https://assets.ccbp.in/frontend/react-js/meetup/meetup-img.png](https://assets.ccbp.in/frontend/react-js/meetup/meetup-img.png) alt should be **meetup**
+- [https://assets.ccbp.in/frontend/react-js/meetup/not-found-img.png](https://assets.ccbp.in/frontend/react-js/meetup/not-found-img.png) alt should be **not found**
 
 </details>
 
